@@ -1,0 +1,14 @@
+{
+  "name": "npm-scripts",
+  "version": "1.0.0",
+  "description": "Grunt example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Drew Fyock",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  }
+}
