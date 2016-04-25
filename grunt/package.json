@@ -1,14 +1,22 @@
 {
   "name": "npm-scripts",
-  "version": "1.0.0",
   "description": "Grunt example",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "version": "1.0.0",
   "author": "Drew Fyock",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-qunit": "^1.2.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-simple-mocha": "^0.4.1"
+  },
   "license": "MIT",
-  "dependencies": {
-    "grunt": "^1.0.1"
+  "main": "src/add.js",
+  "scripts": {
+    "build": "grunt",
+    "test": "grunt test"
   }
 }
