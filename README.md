@@ -1,7 +1,7 @@
 # npm-scripts
 Sample code for the #PghJS [NPM Scripts Meetup](http://www.meetup.com/Pittsburgh-JavaScript/events/229086018/)
 
-For more info, please [see accompanying slides](./npm_script.pptx) or [pdf version](./npm_scripts.pdf)
+For more info, please [see accompanying slides](./npm_scripts.pptx) or [pdf version](./npm_scripts.pdf)
 
 ## Taskrunners
 
