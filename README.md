@@ -65,5 +65,5 @@ Because no one should be shell-scripting inside a JSON file.
 
 ### Honorable mentions
 
-- `[p-s](https://github.com/kentcdodds/p-s)` - package-scripts.js - brand new
-- `[npm-quick-run](https://github.com/bahmutov/npm-quick-run)` - shortcut for `npm run [script]`
+- [`p-s`](https://github.com/kentcdodds/p-s) - package-scripts.js - brand new
+- [`npm-quick-run`](https://github.com/bahmutov/npm-quick-run) - shortcut for `npm run [script]`
